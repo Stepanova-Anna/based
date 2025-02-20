@@ -119,6 +119,8 @@ CREATE TABLE `users` (
 ---
 ## Задание 7
 
+[Ссылка на файл](https://www.example.com)
+
 ---
 ## Задание 8
 
