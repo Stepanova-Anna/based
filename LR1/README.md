@@ -53,6 +53,17 @@
 ---
 ## Задание 3 
 
+```
+REATE TABLE `users` (
+  `idnew_table` int NOT NULL AUTO_INCREMENT,
+  `new_tablecol` varchar(45) NOT NULL,
+  `new_tablecol1` varchar(45) NOT NULL,
+  PRIMARY KEY (`idnew_table`),
+  UNIQUE KEY `new_tablecol1_UNIQUE` (`new_tablecol1`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb3;
+
+```
+
 ![ЛР1.Задание 3](https://github.com/Stepanova-Anna/based/blob/main/LR1/ЛР1-3.png)
 
 ---
@@ -63,7 +74,6 @@
 ---
 ## Задание 5
 
-![ЛР1.Задание 5](https://github.com/Stepanova-Anna/based/blob/main/LR1/ЛР1-5.png)
 ![ЛР1.Задание 5](https://github.com/Stepanova-Anna/based/blob/main/LR1/ЛР1-5.1.png)
 ![ЛР1.Задание 5](https://github.com/Stepanova-Anna/based/blob/main/LR1/ЛР1-5.2.png)
 
