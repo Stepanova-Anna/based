@@ -70,7 +70,17 @@ REATE TABLE `users` (
 ## Задание 4
 
 ![ЛР1.Задание 4](https://github.com/Stepanova-Anna/based/blob/main/LR1/ЛР1-4.png)
+```
+CREATE TABLE `users` (
+  `number` int NOT NULL AUTO_INCREMENT,
+  `name` varchar(45) NOT NULL,
+  `id` varchar(45) NOT NULL,
+  PRIMARY KEY (`number`),
+  UNIQUE KEY `new_tablecol1_UNIQUE` (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=6 DEFAULT CHARSET=utf8mb3;
 
+```
+> Для обновления записей в таблице выполнится SQL-запрос UPDATE 
 ---
 ## Задание 5
 
@@ -79,6 +89,22 @@ REATE TABLE `users` (
 
 ---
 ## Задание 6
+> Тип данных `TIMESTAMP` в SQL (включая СУБД, такие как MySQL, PostgreSQL и другие) используется для хранения информации о времени, включая дату и время. Он позволяет хранить моменты времени с точностью до микросекунд.
+```
+CREATE TABLE `users` (
+  `id` int NOT NULL AUTO_INCREMENT,
+  `name` varchar(50) NOT NULL,
+  `email` varchar(45) NOT NULL,
+  `gender` enum('M','F') DEFAULT NULL,
+  `bday` date DEFAULT NULL,
+  `postal_code` varchar(10) DEFAULT NULL,
+  `rating` float DEFAULT NULL,
+  ` created` timestamp NULL DEFAULT CURRENT_TIMESTAMP,
+  PRIMARY KEY (`id`),
+  UNIQUE KEY `new_tablecol1_UNIQUE` (`email`)
+) ENGINE=InnoDB AUTO_INCREMENT=13 DEFAULT CHARSET=utf8mb3;
+
+```
 
 ![ЛР1.Задание 6](https://github.com/Stepanova-Anna/based/blob/main/LR1/ЛР1-6.png)
 
