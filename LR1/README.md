@@ -157,4 +157,4 @@ CREATE TABLE resume (
 ## Задание 10
 
 ![ЛР1.Задание 10](https://github.com/Stepanova-Anna/based/blob/main/LR1/ЛР1-10.png)
-
+> При изменение id в users автоматически меняется значение в resume
