@@ -45,7 +45,7 @@
 
 ## Задание 2
 
-![ЛР1.Задание 2](image.jpg)
+![ЛР1.Задание 2](https://github.com/Stepanova-Anna/based/blob/main/LR1/ЛР1-1-1.png)
 
 ---
 ## Задание 3 
