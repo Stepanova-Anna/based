@@ -42,23 +42,35 @@
 -	Копировать запрос: копирует SQL-запрос, сгенерировавшийотчето производительности. Сохраняет в системном буфере обмена.
 - Обновить: обновляет (перезагружает) отчет о производительности
 ---
+![ЛР1.Задание 1](https://github.com/Stepanova-Anna/based/blob/main/LR1/ЛР1-1-1.png)
 
 ## Задание 2
 
-![ЛР1.Задание 2](https://github.com/Stepanova-Anna/based/blob/main/LR1/ЛР1-1-1.png)
+![ЛР1.Задание 2](https://github.com/Stepanova-Anna/based/blob/main/LR1/ЛР1-2.png)
+![ЛР1.Задание 2](https://github.com/Stepanova-Anna/based/blob/main/LR1/ЛР1-2.1.png)
+![ЛР1.Задание 2](https://github.com/Stepanova-Anna/based/blob/main/LR1/ЛР1-2.2.png)
 
 ---
 ## Задание 3 
 
+![ЛР1.Задание 3](https://github.com/Stepanova-Anna/based/blob/main/LR1/ЛР1-3.png)
+
 ---
 ## Задание 4
+
+![ЛР1.Задание 4](https://github.com/Stepanova-Anna/based/blob/main/LR1/ЛР1-4.png)
 
 ---
 ## Задание 5
 
+![ЛР1.Задание 5](https://github.com/Stepanova-Anna/based/blob/main/LR1/ЛР1-5.png)
+![ЛР1.Задание 5](https://github.com/Stepanova-Anna/based/blob/main/LR1/ЛР1-5.1.png)
+![ЛР1.Задание 5](https://github.com/Stepanova-Anna/based/blob/main/LR1/ЛР1-5.2.png)
+
 ---
 ## Задание 6
 
+![ЛР1.Задание 6](https://github.com/Stepanova-Anna/based/blob/main/LR1/ЛР1-6.png)
 
 ---
 ## Задание 7
