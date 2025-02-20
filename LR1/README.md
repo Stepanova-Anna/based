@@ -125,7 +125,8 @@ CREATE TABLE `users` (
 ## Задание 8
 
 ![ЛР1.Задание 8](https://github.com/Stepanova-Anna/based/blob/main/LR1/ЛР1-8.png)
-
+![ЛР1.Задание 8](https://github.com/Stepanova-Anna/based/blob/main/LR1/ЛР1-8.1.png)
+![ЛР1.Задание 8](https://github.com/Stepanova-Anna/based/blob/main/LR1/ЛР1-8.2.png)
 ```
 CREATE TABLE resume (
     resumeid INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
@@ -142,6 +143,11 @@ CREATE TABLE resume (
 ---
 ## Задание 9
 
+![ЛР1.Задание 9](https://github.com/Stepanova-Anna/based/blob/main/LR1/ЛР1-9.png)
+![ЛР1.Задание 9](https://github.com/Stepanova-Anna/based/blob/main/LR1/ЛР1-9.1.png)
+![ЛР1.Задание 9](https://github.com/Stepanova-Anna/based/blob/main/LR1/ЛР1-9.2.png)
+
+[Ссылка на файл](https://github.com/Stepanova-Anna/based/blob/main/LR1/Lab_1.2.sql)
 
 ---
 ## Задание 10
