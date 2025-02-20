@@ -124,6 +124,7 @@ CREATE TABLE `users` (
 ---
 ## Задание 8
 
+![ЛР1.Задание 8](https://github.com/Stepanova-Anna/based/blob/main/LR1/ЛР1-8.png)
 
 ---
 ## Задание 9
