@@ -147,8 +147,14 @@ CREATE TABLE resume (
 ![ЛР1.Задание 9](https://github.com/Stepanova-Anna/based/blob/main/LR1/ЛР1-9.1.png)
 ![ЛР1.Задание 9](https://github.com/Stepanova-Anna/based/blob/main/LR1/ЛР1-9.2.png)
 
+> Один пользователь может иметь минимально 0 и максимально любое количество резюме.
+> При попытке добавить резюме с `userid` несуществующего пользователя возникает ошибка из-за ограничения на внешний ключ.
+> Синтаксис вставок, используемый для заполнения таблицы, корректный и позволяет добавить записи, связанные с существующими пользователями.
+
 [Ссылка на файл](https://github.com/Stepanova-Anna/based/blob/main/LR1/Lab_1.2.sql)
 
 ---
 ## Задание 10
+
+![ЛР1.Задание 10](https://github.com/Stepanova-Anna/based/blob/main/LR1/ЛР1-10.png)
 
