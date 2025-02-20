@@ -119,7 +119,7 @@ CREATE TABLE `users` (
 ---
 ## Задание 7
 
-[Ссылка на файл](https://www.example.com)
+[Ссылка на файл](https://github.com/Stepanova-Anna/based/blob/main/LR1/Lab_1.sql)
 
 ---
 ## Задание 8
