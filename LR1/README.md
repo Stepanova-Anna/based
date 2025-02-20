@@ -88,12 +88,16 @@ CREATE TABLE `users` (
 > - gender
 > - bday
 > - postal_code
+
+
 ![ЛР1.Задание 5](https://github.com/Stepanova-Anna/based/blob/main/LR1/ЛР1-5.1.png)
 ![ЛР1.Задание 5](https://github.com/Stepanova-Anna/based/blob/main/LR1/ЛР1-5.2.png)
 
 ---
 ## Задание 6
 > Тип данных `TIMESTAMP` в SQL (включая СУБД, такие как MySQL, PostgreSQL и другие) используется для хранения информации о времени, включая дату и время. Он позволяет хранить моменты времени с точностью до микросекунд.
+
+
 ```
 CREATE TABLE `users` (
   `id` int NOT NULL AUTO_INCREMENT,
