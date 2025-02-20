@@ -83,7 +83,11 @@ CREATE TABLE `users` (
 > Для обновления записей в таблице выполнится SQL-запрос UPDATE 
 ---
 ## Задание 5
-
+>поля могут быть NULL по умолчанию, если пользователь не хочет делиться персонализированной информацией
+- name
+- gender
+- bday
+- postal_code
 ![ЛР1.Задание 5](https://github.com/Stepanova-Anna/based/blob/main/LR1/ЛР1-5.1.png)
 ![ЛР1.Задание 5](https://github.com/Stepanova-Anna/based/blob/main/LR1/ЛР1-5.2.png)
 
