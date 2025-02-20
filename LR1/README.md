@@ -126,6 +126,19 @@ CREATE TABLE `users` (
 
 ![ЛР1.Задание 8](https://github.com/Stepanova-Anna/based/blob/main/LR1/ЛР1-8.png)
 
+```
+CREATE TABLE resume (
+    resumeid INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
+    userid INT NOT NULL,
+    title VARCHAR(100) NOT NULL,
+    skills TEXT,
+    created TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (userid) REFERENCES simpledb.users(id) ON UPDATE CASCADE ON DELETE CASCADE
+);
+```
+Поведение СУБД при удалении связанных записей:
+Если в таблице `users` произойдёт удаление записи, связанной с определённым `userid`, то СУБД автоматически будет удалять все записи из таблицы `resume`, где этот `userid` указан. Это позволяет поддерживать целостность данных и избегать наличия "осиротевших" записей в таблице `resume`, которые не имеют соответствующих записей в таблице `users`.
+
 ---
 ## Задание 9
 
