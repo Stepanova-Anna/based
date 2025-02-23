@@ -1,4 +1,4 @@
 # Самостоятельная работа 1
 ## Инвариантная часть
 ### Задание 1.1:  Заполнить таблицу "Типы данных и объекты СУБД MySQL"
-[ИСР 1.1](https://github.com/Stepanova-Anna/based/blob/main/SR1/ИСР 1.1.pdf)
+[ИСР 1.1](https://github.com/Stepanova-Anna/based/blob/main/SR1/ИСР_1.1.pdf)
