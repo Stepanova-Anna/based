@@ -2,3 +2,4 @@
 
 ## :link: [Лабораторная работа 1](https://github.com/Stepanova-Anna/based/blob/main/LR1/README.md)
 ## :link: [Самостоятельная работа 1](https://github.com/Stepanova-Anna/based/blob/main/SR1/README.md)
+## :link: [Лабораторная работа 2](https://github.com/Stepanova-Anna/based/blob/main/LR2/README.md)
