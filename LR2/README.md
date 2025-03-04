@@ -17,6 +17,8 @@
 
 [Ссылка на gist](https://gist.github.com/Stepanova-Anna/7e7c92dd019e6de11184895bf85ebc59)
 
+![ЛР2.Задание 2](https://github.com/Stepanova-Anna/based/blob/main/LR2/Connect.png)
+
 ---
 
 > Задание 3. Выполните операцию Database - Forward Engineer и создайте базу данных на вашем сервере. Сделайте скриншот с успешным выполнением этого процесса и вставьте его в отчет. 
