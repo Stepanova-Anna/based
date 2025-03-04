@@ -5,7 +5,9 @@
 **Результат:**
 
 ![ЛР2.Задание 1](https://github.com/Stepanova-Anna/based/blob/main/LR2/firstModel.png)
+
 [Ссылка на gist](https://gist.github.com/Stepanova-Anna/232b54ce15d586cb75ab67a391848c50)
+
 ```
 -- -----------------------------------------------------
 -- Table `firstModel`.`invoice`
