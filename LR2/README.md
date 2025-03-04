@@ -74,7 +74,7 @@ ENGINE = InnoDB;
 > Задание 4. Добавьте несколько строк и новых атрибутов в каждую таблицу созданной базы данных. Попробуйте удалить связанные в нескольких таблицах данные, зафиксируйте, что произошло и опишите текстом (и по возможности дополните скриншотами) в отчёте.
 
 **Результат:**
-<script src="https://gist.github.com/Stepanova-Anna/232b54ce15d586cb75ab67a391848c50.js"></script>
+[Ссылка на gist]((https://gist.github.com/Stepanova-Anna/232b54ce15d586cb75ab67a391848c50)
 
 ![ЛР2.Задание 4](https://github.com/Stepanova-Anna/based/blob/main/LR2/T4.3.png)
 ![ЛР2.Задание 4](https://github.com/Stepanova-Anna/based/blob/main/LR2/T4.4.png)
