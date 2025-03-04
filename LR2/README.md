@@ -76,3 +76,6 @@ ENGINE = InnoDB;
 **Результат:**
 
 
+![ЛР2.Задание 4](https://github.com/Stepanova-Anna/based/blob/main/LR2/T4.3.png)
+![ЛР2.Задание 4](https://github.com/Stepanova-Anna/based/blob/main/LR2/T4.4.png)
+
