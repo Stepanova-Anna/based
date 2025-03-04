@@ -6,7 +6,30 @@
 
 ![ЛР2.Задание 1](https://github.com/Stepanova-Anna/based/blob/main/LR2/firstModel.png)
 [Ссылка на gist](https://gist.github.com/Stepanova-Anna/232b54ce15d586cb75ab67a391848c50)
-
+```
+-- -----------------------------------------------------
+-- Table `firstModel`.`invoice`
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS `firstModel`.`invoice` (
+  `idinvoice` INT NOT NULL AUTO_INCREMENT,
+  `user_id` INT NOT NULL,
+  `product_id` INT NOT NULL,
+  `cost` DECIMAL(10,2) NOT NULL,
+  PRIMARY KEY (`idinvoice`),
+  INDEX `user_idx` (`user_id` ASC) VISIBLE,
+  INDEX `product_idx` (`product_id` ASC) VISIBLE,
+  CONSTRAINT `user`
+    FOREIGN KEY (`user_id`)
+    REFERENCES `firstModel`.`user` (`id`)
+    ON DELETE CASCADE
+    ON UPDATE CASCADE,
+  CONSTRAINT `product`
+    FOREIGN KEY (`product_id`)
+    REFERENCES `firstModel`.`product` (`idproduct`)
+    ON DELETE CASCADE
+    ON UPDATE CASCADE)
+ENGINE = InnoDB;
+```
 ---
 
 > Задание 2. Создайте собственную EER-диаграмму и спроектируйте БД с параметрами на основе текста, опубликованного по ссылке: https://habr.com/ru/post/175985/
