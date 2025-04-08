@@ -74,6 +74,16 @@ game_id FK → ИГРА(game_id) NOT NULL
 
 ### Результат
 
+![ЛР6.Задание 1](https://github.com/Stepanova-Anna/based/blob/main/LR6/игра.png)
+
+![ЛР6.Задание 1](https://github.com/Stepanova-Anna/based/blob/main/LR6/заказ.png)
+
+![ЛР6.Задание 1](https://github.com/Stepanova-Anna/based/blob/main/LR6/клиент.png)
+
+![ЛР6.Задание 1](https://github.com/Stepanova-Anna/based/blob/main/LR6/сотрудник.png)
+
+![ЛР6.Задание 1](https://github.com/Stepanova-Anna/based/blob/main/LR6/з3.png)
+
 
 6. Все внешние ключи помечены как NOT NULL, так как:
 
