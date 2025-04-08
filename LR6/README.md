@@ -44,13 +44,10 @@ NULL.
 
 ![ЛР6.Задание 1](https://github.com/Stepanova-Anna/based/blob/main/LR6/з3.png)
 
+![ЛР6.Задание 1](https://github.com/Stepanova-Anna/based/blob/main/LR6/св1.png)
 
-6. Все внешние ключи помечены как NOT NULL, так как:
+![ЛР6.Задание 1](https://github.com/Stepanova-Anna/based/blob/main/LR6/св2.png)
 
-- Игра должна иметь производителя
+![ЛР6.Задание 1](https://github.com/Stepanova-Anna/based/blob/main/LR6/св3.png)
 
-- Заказ должен быть связан с клиентом и сотрудником
-
-- Позиция заказа должна быть связана с заказом и игрой
-
-- Новых потенциальных ключей после добавления связей не появилось.
+![ЛР6.Задание 1](https://github.com/Stepanova-Anna/based/blob/main/LR6/связи.png)
