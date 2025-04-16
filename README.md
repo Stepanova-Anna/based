@@ -6,4 +6,5 @@
 ## :link: [Лабораторная работа 3](https://github.com/Stepanova-Anna/based/blob/main/LR3/README.md)
 ## :link: [Лабораторная работа 4](https://github.com/Stepanova-Anna/based/blob/main/LR4/README.md)
 ## :link: [Лабораторная работа 5](https://github.com/Stepanova-Anna/based/blob/main/LR5/README.md)
+## :link: [Самостоятельная работа 2](https://github.com/Stepanova-Anna/based/blob/main/SR2/README.md)
 ## :link: [Самостоятельная работа 3 (Лабораторная работа 6)](https://github.com/Stepanova-Anna/based/blob/main/LR6/README.md)
